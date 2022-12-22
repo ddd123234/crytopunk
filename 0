@@ -1,0 +1,40 @@
+{
+    "name": "Bellygom#8101",
+    "description": "BELLYGOM NFT is a project created and developed from the partnership between Lotte Home Shopping and a FSN's affiliate, 'FingerVerse.' With a total of 10,000 PFPs, various experiences with the BELLYGOM IP such as shopping, hotels, exhibitions, and movies etc, are in store for you. We plan to design a new roadmap with the community members, to expand the BELLYGOM Universe through private membership benefits and events such as renting the entire Lotte World just for our community. Join us and enjoy these amazing IRL experiences with BELLYGOM NFT now!",
+    "image": "https://belly.bellygom.world/8101.png",
+    "score": 8810,
+    "attributes": [
+        {
+            "value": "Sky Fantasy",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Belly Pink",
+            "trait_type": "Body"
+        },
+        {
+            "value": "Cupid Gown",
+            "trait_type": "Clothes"
+        },
+        {
+            "value": "Angel Ring",
+            "trait_type": "Head"
+        },
+        {
+            "value": "Cupid Bow",
+            "trait_type": "Acc"
+        },
+        {
+            "value": "White Angel Wing",
+            "trait_type": "Special"
+        },
+        {
+            "value": 1,
+            "trait_type": "Rank"
+        },
+        {
+            "value": "Belly",
+            "trait_type": "Grade"
+        }
+    ]
+}
